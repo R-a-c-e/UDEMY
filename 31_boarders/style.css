@@ -1,0 +1,11 @@
+div{
+    width:50vw;
+    border-width: 2px;
+    border-style: dashed;
+    text-align: center;
+}
+.non-div{
+    text-align: center;
+    border: 2px solid black;
+    width: 50vw;
+}
