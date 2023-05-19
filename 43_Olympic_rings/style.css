@@ -1,0 +1,37 @@
+.circle{
+    border: 20px solid;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+}
+
+#blue{
+    border-color: blue;
+    top: 0px;
+    left: 0px;
+}
+
+#black{
+    border-color: black;
+    top: 0px;
+    left: 260px;
+}
+
+#red{
+    border-color: red;
+    top: 0px;
+    left: 520px;
+}
+
+#yellow{
+    border-color: gold;
+    top: 110px;
+    left: 125px;
+}
+
+#green{
+    border-color: green;
+    top: 110px;
+    left: 390px;
+}

@@ -1,0 +1,31 @@
+.contact-section{
+    width: 100vw;
+    height: 50vh;
+    background-color: rgb(207, 19, 107);
+    text-align: center;
+    color: #FFFFDD
+}
+
+.contact-title{
+    margin: 25px 0;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    font-size: 250%;
+}
+
+.email{
+    font-size: 140%;
+}
+
+.social-media-div{
+    display: flex;
+    flex-direction: row;
+    width: 40vw;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.social-media-icon{
+    margin: 0 10px;
+}
+

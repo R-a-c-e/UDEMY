@@ -1,0 +1,43 @@
+.box{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    color: black;
+}
+
+#one{
+    background-color: green;
+    position: relative;
+    top: 80px;
+    left: 300px;
+}
+
+#two{
+    background-color: mediumpurple;
+    
+}
+
+#three{
+    background-color: green;
+    position: relative;
+    top: 80px;
+    left: 300px;
+}
+
+#four{
+    background-color: mediumpurple;
+    position: fixed;
+    top: 100px;
+    left: 550px;
+}
+
+.red{
+    height: 2000px;
+    width: 40px;
+    background-color: red;
+}
+.blue{
+    height: 2000px;
+    width: 40px;
+    background-color: blue;
+}

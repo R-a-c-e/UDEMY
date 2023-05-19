@@ -1,0 +1,35 @@
+form {
+    background-color: lightblue;
+    margin: 0 auto;
+    width: 50vw;
+    height: 600px;
+    padding: 25px;
+}
+
+.text-field, .text-area{
+    display: block;
+    margin: 18px auto;
+    width: 70%;
+    border-radius: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(243, 123, 169);
+    font-weight: bold;
+    border: 0px solid white;
+}
+
+.text-field{
+    height: 40px;
+}
+
+.text-area{
+    height: 240px;
+}
+
+.button{
+    display: block;
+    margin: 0 auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 75px;
+    border: 1px solid lightskyblue
+}
+

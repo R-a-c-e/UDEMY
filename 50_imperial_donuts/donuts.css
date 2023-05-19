@@ -1,0 +1,59 @@
+.top-row{
+    display: flex;
+    flex-direction: row;
+}
+
+.bottom-row{
+    display: flex;
+    flex-direction: row;
+}
+
+.donut-section{
+    width: 100vw;
+}
+
+.image-container{
+    width: 100%;
+}
+
+.row{
+    width: 90%;
+    margin: 0px auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.grid-item{
+    width: 30%;
+    height: 310px;
+    margin: 10px auto;
+    background-size: cover;
+    background-position: center;
+}
+#item1{
+    background-image: url(./pictures/donut1.avif);
+}
+#item2{
+    background-image: url(./pictures/donut2.avif);
+}
+#item3{
+    background-image: url(./pictures/donut3.avif);
+}
+#item4{
+    background-image: url(./pictures/donut4.avif);
+}
+#item5{
+    background-image: url(./pictures/donut5.avif);
+}
+#item6{
+    background-image: url(./pictures/donut6.avif);
+}
+#item7{
+    background-image: url(./pictures/coverPhoto.avif);
+}
+#item8{
+    background-image: url(./pictures/donut8.avif);
+}
+#item9{
+    background-image: url(./pictures/donut9.avif);
+}

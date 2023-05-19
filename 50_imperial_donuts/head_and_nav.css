@@ -1,0 +1,58 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    max-width: 100%;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+header{
+    width: 100vw;
+    height: 100vh;
+
+}
+nav{
+
+    width: 90%;
+    margin: 0 auto;
+    text-align: right;
+}
+nav ul li{
+    display: inline-block;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: rgb(207, 19, 107);
+    font-size: 20px;
+    margin: 10px;
+}
+
+nav ul li a:hover{
+    text-decoration: underline;
+}
+
+.strapline-container{
+    text-align: center;
+    border: 2px solid rgb(207, 19, 107);
+    width: 90%;
+    height: 85%;
+    margin: auto auto;
+    background-image: url(pictures/donut3.avif);
+    background-size: cover;
+    background-position: center;
+}
+
+.main-strapline{
+    color:rgb(207, 19, 107);
+    font-size: 120px;
+    font-family: 'Poppins', sans-serif;
+    margin: 50px 0;
+    text-transform: uppercase;
+}
+
+.second-strapline{
+    color: #FFFFDD;
+    font-size: 35px;
+    font-style: italic;
+}

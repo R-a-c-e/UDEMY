@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(pictures/lightbulb.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+
+}
+h2{
+    text-align: center;
+    margin: 15px;
+}
+h1:hover{
+    text-align: left;
+}
+.container{
+    
+    width: 80%;
+    margin: 0 auto;    
+}
+.row{
+    width: 100%;
+}
+.item{
+    width: 30%;
+    height: 200px;
+    margin: 10px;
+    
+    
+    background-image: url(pictures/cactus.avif);
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+
+    border-radius: 8px;
+}
+.item:hover{
+    opacity: 0.50;
+}

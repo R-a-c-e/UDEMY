@@ -1,0 +1,20 @@
+.container{
+    border: 2px solid black;
+    width: 800px;
+    margin: 10px auto;
+}
+
+#text-container{
+    height: 400px;
+}
+.text-content{
+    text-align: justify;
+    margin: 15px;
+}
+.input-bar{
+    width: 90%;
+    margin: 0% 5%;
+}
+h2{
+    text-align: center;
+}

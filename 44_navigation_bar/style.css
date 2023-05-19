@@ -1,0 +1,21 @@
+nav{
+    width: 90vw;
+    margin: 0 auto;
+    text-align: center;
+}
+
+nav ul li{
+    display: inline-block;
+}
+nav ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #5971AD;
+    margin: 20px;
+}
+
+nav ul li a:hover{
+    text-decoration: underline;
+    color: black
+}

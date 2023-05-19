@@ -1,0 +1,24 @@
+div p{
+    color: blue
+}
+
+a{
+    font-size: 220%;
+}
+
+a:link{
+text-decoration: none;
+}
+
+a:visited{
+color: maroon;
+}
+
+a:hover{
+color: aqua;
+text-decoration: underline;
+}
+
+a:active{
+    color: red;
+}

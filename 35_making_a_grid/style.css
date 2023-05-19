@@ -1,0 +1,18 @@
+.main-grid{
+    width: 100%;
+    height: 100%
+}
+
+.row{
+    width: 100%;
+    height: 33%;
+}
+
+.box{
+    text-align: center;
+    padding: 14%;
+    border: 3px solid rosybrown;
+    background-color: teal;
+    margin: 5px;
+    display: inline-block;
+}
