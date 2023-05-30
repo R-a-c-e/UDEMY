@@ -1,0 +1,14 @@
+@media only screen and (max-width: 600px){
+    h2{
+        color: blue;
+    }
+    .par-one{
+        text-decoration: underline;
+        color: green;
+    }
+
+    #par-two{
+        color: orange;
+        font-weight: bold;
+    }
+}
