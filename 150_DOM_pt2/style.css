@@ -1,0 +1,31 @@
+.heroes{
+    color: blue;
+    font-size: 22px;
+}
+
+.villian {
+    color: green;
+}
+
+#btn1, #btn2, #btn3{
+    display: block;
+    margin: 5px;
+}
+
+.blue-class{
+    color: blue;
+}
+
+.red-class{
+    color: red;
+}
+
+.green-class{
+    color: green;
+}
+div{
+    text-align: center;
+}
+.hover{
+    display: inline-block;
+}
